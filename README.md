@@ -3,7 +3,7 @@
 <h3 align="center">Would also like to enhance my Skills as a Quality Assurance Engineer specially on Automation.</h3>
 
 <p align="center">
-    <img alt= "Coding" src="https://gist.githubusercontent.com/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif" width="1000"> </img>
+    <img alt= "Coding" src="https://i.gifer.com/6tXM.gif" width="1000"> </img>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arwinoverslept&label=Profile%20views&color=0e75b6&style=flat" alt="arwinoverslept" /> </p>
