@@ -3,7 +3,7 @@
 <h3 align="center">Would also like to enhance my Skills as a Quality Assurance Engineer specially on Automation.</h3>
 
 <p align="center">
-    <img alt= "Coding" src="https://camo.githubusercontent.com/37868fdc01f64a1f97f36625a7e0781dd3a55bce30a728cfbe1e4369b2013f9c/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f6d656469612f34323164346564326633643233633733643634643230393633663631663432322e676966" width="400" > </img>
+    <img alt= "Coding" src="https://camo.githubusercontent.com/37868fdc01f64a1f97f36625a7e0781dd3a55bce30a728cfbe1e4369b2013f9c/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f6d656469612f34323164346564326633643233633733643634643230393633663631663432322e676966" width="1000" > </img>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arwinoverslept&label=Profile%20views&color=0e75b6&style=flat" alt="arwinoverslept" /> </p>
@@ -22,4 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arwinoverslept&show_icons=true&locale=en&layout=compact" alt="arwinoverslept" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=arwinoverslept&" alt="arwinoverslept" width: 500 /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=arwinoverslept&" alt="arwinoverslept"/></p>
