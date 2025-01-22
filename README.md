@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arwinoverslept&label=Profile%20views&color=0e75b6&style=flat" alt="arwinoverslept" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript, Java, Python, C, Vuejs, Tailwind**
+- 🌱 I’m currently learning **Selenium, HTML, CSS, Javascript, Java, Python, C, Vuejs, Tailwind**
 
 - 📫 How to reach me **arwinbulongviernes@gmail.com**
 
